@@ -1,0 +1,13 @@
+{
+  "architecture": [
+    784,
+    256,
+    128,
+    10
+  ],
+  "epochs": 10,
+  "batch_size": 128,
+  "learning_rate": 0.05,
+  "test_loss": 0.09749971646138886,
+  "test_accuracy": 0.9706
+}
