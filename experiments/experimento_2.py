@@ -4,7 +4,7 @@ from train import run_experiment
 
 
 HIDDEN_LAYERS = [128, 64]
-EPOCHS = 10
+EPOCHS = 50
 BATCH_SIZE = 128
 LEARNING_RATE = 0.01
 SEED = 42
