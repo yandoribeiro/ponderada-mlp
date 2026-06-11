@@ -5,9 +5,9 @@
     64,
     10
   ],
-  "epochs": 90,
+  "epochs": 120,
   "batch_size": 128,
   "learning_rate": 0.01,
-  "test_loss": 0.07995943549118929,
-  "test_accuracy": 0.9753
+  "test_loss": 0.0754374671235249,
+  "test_accuracy": 0.9767
 }
