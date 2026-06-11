@@ -1,13 +1,13 @@
 {
   "architecture": [
     784,
-    128,
-    64,
+    192,
+    94,
     10
   ],
   "epochs": 90,
   "batch_size": 64,
   "learning_rate": 0.05,
-  "test_loss": 0.09371472657686902,
-  "test_accuracy": 0.98
+  "test_loss": 0.08781572606914692,
+  "test_accuracy": 0.9799
 }

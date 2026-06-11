@@ -3,7 +3,7 @@ from pathlib import Path
 from train import run_experiment
 
 
-HIDDEN_LAYERS = [128, 64]
+HIDDEN_LAYERS = [192, 94]
 EPOCHS = 90
 BATCH_SIZE = 64
 LEARNING_RATE = 0.05
