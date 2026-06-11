@@ -5,7 +5,7 @@ from train import run_experiment
 
 HIDDEN_LAYERS = [128, 64]
 EPOCHS = 120
-BATCH_SIZE = 128
+BATCH_SIZE = 64
 LEARNING_RATE = 0.01
 SEED = 42
 RESULTS_DIR = Path("results/experimento_2")
